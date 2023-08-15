@@ -5,7 +5,7 @@ A redirect service that opens Soldat 2 on Steam and joins a server.
 Normally you'd use `steam://` links, but that isn't supported everywhere as a clickable hyperlink (e.g. Discord).
 
 Since this service does exactly that &ndash; redirect to a `steam://` URL &ndash; it has the same limitations this Steam URL has.  
-So it won't work it Soldat 2 is already open. The game needs to be closed for the link to work.
+So it won't work if Soldat 2 is already open. The game needs to be closed for the link to work.
 
 # Installation
 
