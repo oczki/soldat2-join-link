@@ -1,3 +1,6 @@
+> [!NOTE]
+> As [Soldat 2 has officially reached end of development](https://store.steampowered.com/news/app/474220/view/4656249009454303927?l=english), this repository is archived and will no longer be maintained.
+
 # Soldat 2 link service
 
 A redirect service that opens Soldat 2 on Steam and joins a server.
